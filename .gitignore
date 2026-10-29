@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf

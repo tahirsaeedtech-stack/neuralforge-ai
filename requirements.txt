@@ -1,0 +1,13 @@
+torch
+transformers
+accelerate
+peft
+trl
+datasets
+bitsandbytes
+scikit-learn
+pandas
+fastapi
+uvicorn[standard]
+pytest
+mlflow
